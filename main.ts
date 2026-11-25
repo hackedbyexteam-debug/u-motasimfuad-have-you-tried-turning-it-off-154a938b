@@ -6,7 +6,7 @@
 // /output/entry.txt. Gate: 1–199 UTF-8 characters, not only whitespace.
 //
 // 12-candidate draft (shortlist from the drafting session):
-//  1. "Have you tried turning it off and on again? I just did mine, and
+//  1. "Have you tried turning it off and on again? I just did mine, and I
 //     feel fantastic — shall we do yours next?"  ← WINNER (107 chars)
 //  2. "Have you tried turning it off and on again? It worked for my last
 //     caller — they hung up and never rang back."  ← runner-up
